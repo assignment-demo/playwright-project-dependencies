@@ -8,7 +8,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.32.0-alpha-mar-14-2023"
+    "@playwright/test": "^1.32.0-alpha-mar-14-2023",
+    "@types/node": "^20.11.24",
+    "typescript": "^5.3.3"
   },
   "dependencies": {
     "dotenv": "^16.0.3"
